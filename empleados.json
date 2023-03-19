@@ -2,22 +2,22 @@
     "empleados" : [
         {
             "id" : 1,
-            "nombre": "Juan",
+            "nombre": "Oscar",
             "puesto": "Programador Web"
         },
         {
             "id" : 2,
-            "nombre": "Pedro",
+            "nombre": "Ricardo",
             "puesto": "UX / UI"
         },
         {
             "id" : 3,
-            "nombre": "Andrea",
+            "nombre": "Jhonatan",
             "puesto": "MKT"
         },
         {
             "id" : 4,
-            "nombre": "Karen",
+            "nombre": "Araceli",
             "puesto": "Servidores"
         }
     ]
